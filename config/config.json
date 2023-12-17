@@ -1,0 +1,11 @@
+{
+    "development": {
+      "username": "Organic512",
+      "password": "Fatboy11!",
+      "database": "Modul14",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "port": 3306
+    }
+  }
+  
